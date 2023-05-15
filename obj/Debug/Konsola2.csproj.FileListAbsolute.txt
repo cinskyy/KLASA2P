@@ -1,0 +1,3 @@
+C:\2p grupa 1\Konsola2\obj\Debug\Konsola2.csproj.AssemblyReference.cache
+C:\2p grupa 1\Konsola2\obj\Debug\Konsola2.csproj.SuggestedBindingRedirects.cache
+C:\2p grupa 1\Konsola2\obj\Debug\Konsola2.csproj.CoreCompileInputs.cache
